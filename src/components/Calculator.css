@@ -4,19 +4,19 @@
     align-items: center;
     background-color: #000000;
     padding: 20px;
-    border-radius: 10px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 35px;
+    box-shadow: 0 0 100px #f2ff00;
   }
   
   .display {
-    font-size: 2em;
+    font-size: 3em;
     margin-bottom: 10px;
     padding: 10px;
-    width: 100%;
+    width: 65%;
     text-align: center;
     background-color: #f2ff00;
     color: #000000;
-    border-radius: 200px;
+    border-radius: 20px;
   }
   
   .buttons {
